@@ -27,7 +27,7 @@
           "Properties":
             {
               "PolicyDocument": {
-                "id": "SNSandS3-graham-1227",
+                "id": "SNSandS3-graham",
                 "Version": "2022-12-26",
                 "Statement": [
                     {
