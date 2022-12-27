@@ -27,7 +27,7 @@
           "Properties":
             {
               "PolicyDocument": {
-                "id": "SNSandS3-a-fun-name",
+                "id": "SNSandS3-graham-v1",
                 "Version": "2022-12-26",
                 "Statement": [
                     {
